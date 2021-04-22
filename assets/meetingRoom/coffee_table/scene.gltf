@@ -3,74 +3,74 @@
     {
       "bufferView": 2,
       "componentType": 5126,
-      "count": 4,
+      "count": 12112,
       "max": [
-        167.02890014648438,
-        167.02890014648438,
-        0
+        100.50474548339844,
+        450.9835205078125,
+        20
       ],
       "min": [
-        -167.02890014648438,
-        -167.02890014648438,
+        -596.15655517578125,
+        -245.67776489257812,
         0
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 48,
+      "byteOffset": 145344,
       "componentType": 5126,
-      "count": 4,
+      "count": 12112,
       "max": [
-        0,
-        0,
+        0.99999940395355225,
+        0.99999940395355225,
         1
       ],
       "min": [
-        0,
-        0,
-        1
+        -0.99999940395355225,
+        -0.99999940395355225,
+        -1
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 3,
       "componentType": 5126,
-      "count": 4,
+      "count": 12112,
       "max": [
-        1,
-        2.3841863594498136e-07,
-        0,
+        0.99999916553497314,
+        0.99999940395355225,
+        0.99996411800384521,
         1
       ],
       "min": [
-        1,
-        1.8270841906087298e-07,
-        0,
-        1
+        -0.99999940395355225,
+        -0.99999934434890747,
+        -0.99996429681777954,
+        -1
       ],
       "type": "VEC4"
     },
     {
       "bufferView": 1,
       "componentType": 5126,
-      "count": 4,
+      "count": 12112,
       "max": [
-        1,
-        1
+        1.7159212827682495,
+        0.99950051307678223
       ],
       "min": [
-        2.9802322387695312e-08,
-        2.9802322387695312e-08
+        -0.71592128276824951,
+        0.00049948692321777344
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
       "componentType": 5125,
-      "count": 6,
+      "count": 72576,
       "max": [
-        3
+        12111
       ],
       "min": [
         0
@@ -79,26 +79,26 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 96,
+      "byteOffset": 290688,
       "componentType": 5126,
-      "count": 3240,
+      "count": 65532,
       "max": [
-        88.933670043945312,
-        38.011699676513672,
-        18.444553375244141
+        233.19052124023438,
+        358.69363403320312,
+        25.000003814697266
       ],
       "min": [
-        -31.504854202270508,
-        -11.956411361694336,
-        0.21631431579589844
+        -358.693603515625,
+        -358.693603515625,
+        -430
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 38976,
+      "byteOffset": 1077072,
       "componentType": 5126,
-      "count": 3240,
+      "count": 65532,
       "max": [
         1,
         1,
@@ -113,75 +113,45 @@
     },
     {
       "bufferView": 3,
-      "byteOffset": 64,
+      "byteOffset": 193792,
       "componentType": 5126,
-      "count": 3240,
+      "count": 65532,
+      "max": [
+        1,
+        1,
+        0.99984538555145264,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.99984544515609741,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 96896,
+      "componentType": 5126,
+      "count": 65532,
       "max": [
         0.99999994039535522,
-        0.71618860960006714,
-        0.9999992847442627,
-        1
+        0.99950051307678223
       ],
       "min": [
-        -0.99999988079071045,
-        -0.71619981527328491,
-        -0.9999883770942688,
-        -1
-      ],
-      "type": "VEC4"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 32,
-      "componentType": 5126,
-      "count": 3240,
-      "max": [
-        0.98854976892471313,
-        0.99043703079223633
-      ],
-      "min": [
-        0.010948240756988525,
-        0.00050000002374872565
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 25952,
-      "componentType": 5126,
-      "count": 3240,
-      "max": [
-        0.98130244016647339,
-        0.98171705007553101
-      ],
-      "min": [
-        0.031237555667757988,
-        0.011731671169400215
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 51872,
-      "componentType": 5126,
-      "count": 3240,
-      "max": [
-        0.98854976892471313,
-        0.99043703079223633
-      ],
-      "min": [
-        0.010948240756988525,
-        0.00050000002374872565
+        -0.055558681488037109,
+        0.00049945712089538574
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 24,
+      "byteOffset": 290304,
       "componentType": 5125,
-      "count": 15744,
+      "count": 374040,
       "max": [
-        3239
+        65531
       ],
       "min": [
         0
@@ -190,33 +160,33 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 77856,
+      "byteOffset": 1863456,
       "componentType": 5126,
-      "count": 12504,
+      "count": 65532,
       "max": [
-        78.578712463378906,
-        30.726772308349609,
-        0.3033905029296875
+        358.69366455078125,
+        358.69363403320312,
+        25
       ],
       "min": [
-        -19.564653396606445,
-        -4.6714811325073242,
-        -26.31474494934082
+        -358.69366455078125,
+        -358.69366455078125,
+        -427.39248657226562
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 227904,
+      "byteOffset": 2649840,
       "componentType": 5126,
-      "count": 12504,
+      "count": 65532,
       "max": [
-        1,
+        0.9999854564666748,
         1,
         1
       ],
       "min": [
-        -1,
+        -0.99998551607131958,
         -1,
         -1
       ],
@@ -224,60 +194,45 @@
     },
     {
       "bufferView": 3,
-      "byteOffset": 51904,
+      "byteOffset": 1242304,
       "componentType": 5126,
-      "count": 12504,
+      "count": 65532,
       "max": [
         1,
-        0.9999995231628418,
-        0.99970591068267822,
+        0.99999541044235229,
+        0.99984550476074219,
         1
       ],
       "min": [
         -1,
-        -0.99999946355819702,
-        -0.99970591068267822,
-        -1
+        -0.99999529123306274,
+        -0.99984544515609741,
+        1
       ],
       "type": "VEC4"
     },
     {
       "bufferView": 1,
-      "byteOffset": 77792,
+      "byteOffset": 621152,
       "componentType": 5126,
-      "count": 12504,
+      "count": 65532,
       "max": [
-        0.92537480592727661,
-        0.98245096206665039
+        0.99974018335342407,
+        0.99950051307678223
       ],
       "min": [
-        -0.72739338874816895,
-        0.0044606607407331467
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 177824,
-      "componentType": 5126,
-      "count": 12504,
-      "max": [
-        3.0727438926696777,
-        1.206339955329895
-      ],
-      "min": [
-        -2.1018009185791016,
-        -0.097012802958488464
+        0.00025981664657592773,
+        0.00049951672554016113
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 63000,
+      "byteOffset": 1786464,
       "componentType": 5125,
-      "count": 53232,
+      "count": 370212,
       "max": [
-        12503
+        65531
       ],
       "min": [
         0
@@ -286,94 +241,160 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 377952,
+      "byteOffset": 3436224,
       "componentType": 5126,
-      "count": 1100,
+      "count": 65532,
       "max": [
-        78.453681945800781,
-        30.601749420166016,
-        -26.318477630615234
+        351.8826904296875,
+        351.88262939453125,
+        25
       ],
       "min": [
-        -19.439626693725586,
-        -4.5464544296264648,
-        -26.539363861083984
+        -351.88275146484375,
+        -358.69366455078125,
+        -418.28298950195312
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 2,
-      "byteOffset": 391152,
+      "byteOffset": 4222608,
       "componentType": 5126,
-      "count": 1100,
+      "count": 65532,
       "max": [
-        0.98718112707138062,
-        0.98715490102767944,
+        0.99998551607131958,
+        0.9999854564666748,
         1
       ],
       "min": [
-        -0.98715388774871826,
-        -0.98715478181838989,
+        -0.99998438358306885,
+        -0.99998438358306885,
         -1
       ],
       "type": "VEC3"
     },
     {
       "bufferView": 3,
-      "byteOffset": 251968,
+      "byteOffset": 2290816,
       "componentType": 5126,
-      "count": 1100,
+      "count": 65532,
       "max": [
         1,
-        0.99958258867263794,
-        0.81753706932067871,
+        1,
+        0.99477440118789673,
         1
       ],
       "min": [
         -1,
-        -0.99958276748657227,
-        -0.81755554676055908,
+        -1,
+        -0.99625062942504883,
         -1
       ],
       "type": "VEC4"
     },
     {
       "bufferView": 1,
-      "byteOffset": 277856,
+      "byteOffset": 1145408,
       "componentType": 5126,
-      "count": 1100,
+      "count": 65532,
       "max": [
-        0.87566107511520386,
-        0.88765859603881836
+        0.99974018335342407,
+        0.96711695194244385
       ],
       "min": [
-        0.61574244499206543,
-        0.28402027487754822
-      ],
-      "type": "VEC2"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 286656,
-      "componentType": 5126,
-      "count": 1100,
-      "max": [
-        1.0227272510528564,
-        1
-      ],
-      "min": [
-        0.02272726409137249,
-        0
+        0.00025981664657592773,
+        0.00067311525344848633
       ],
       "type": "VEC2"
     },
     {
       "bufferView": 0,
-      "byteOffset": 275928,
+      "byteOffset": 3267312,
       "componentType": 5125,
-      "count": 4224,
+      "count": 354114,
       "max": [
-        1099
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5008992,
+      "componentType": 5126,
+      "count": 16635,
+      "max": [
+        -80.619781494140625,
+        149.41302490234375,
+        1.9120330810546875
+      ],
+      "min": [
+        -351.8826904296875,
+        -351.88259887695312,
+        -418.28298950195312
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5208612,
+      "componentType": 5126,
+      "count": 16635,
+      "max": [
+        0.99945324659347534,
+        0.99945324659347534,
+        0.99999701976776123
+      ],
+      "min": [
+        -0.99973952770233154,
+        -0.99973940849304199,
+        -0.99997568130493164
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3339328,
+      "componentType": 5126,
+      "count": 16635,
+      "max": [
+        0.99999821186065674,
+        0.99999904632568359,
+        0.93531131744384766,
+        1
+      ],
+      "min": [
+        -0.9999997615814209,
+        -0.9999997615814209,
+        -0.83810609579086304,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1669664,
+      "componentType": 5126,
+      "count": 16635,
+      "max": [
+        0.72943538427352905,
+        0.86529844999313354
+      ],
+      "min": [
+        0.27151626348495483,
+        0.13484019041061401
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4683768,
+      "componentType": 5125,
+      "count": 89250,
+      "max": [
+        16634
       ],
       "min": [
         0
@@ -383,42 +404,42 @@
   ],
   "asset": {
     "extras": {
-      "author": "MADE.COM (https://sketchfab.com/made-it)",
-      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
-      "source": "https://sketchfab.com/3d-models/hooper-storage-coffee-table-natural-ash-7fa74f7637014181b9bc31066d6884af",
-      "title": "Hooper Storage Coffee Table, Natural Ash"
+      "author": "Zuo Modern (https://sketchfab.com/zuo)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/margarita-table-brown-a11050-5f2886503e354dbd927438ae454dcfd4",
+      "title": "Margarita Table Brown - A11050"
     },
-    "generator": "Sketchfab-5.11.0",
+    "generator": "Sketchfab-5.13.0",
     "version": "2.0"
   },
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 292824,
+      "byteLength": 5040768,
       "byteOffset": 0,
       "name": "floatBufferViews",
       "target": 34963
     },
     {
       "buffer": 0,
-      "byteLength": 295456,
-      "byteOffset": 292824,
+      "byteLength": 1802744,
+      "byteOffset": 5040768,
       "byteStride": 8,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 404352,
-      "byteOffset": 588280,
+      "byteLength": 5408232,
+      "byteOffset": 6843512,
       "byteStride": 12,
       "name": "floatBufferViews",
       "target": 34962
     },
     {
       "buffer": 0,
-      "byteLength": 269568,
-      "byteOffset": 992632,
+      "byteLength": 3605488,
+      "byteOffset": 12251744,
       "byteStride": 16,
       "name": "floatBufferViews",
       "target": 34962
@@ -426,54 +447,19 @@
   ],
   "buffers": [
     {
-      "byteLength": 1262200,
+      "byteLength": 15857232,
       "uri": "scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/material_baseColor.jpeg"
-    },
-    {
-      "uri": "textures/FLOOR_baseColor.png"
-    },
-    {
-      "uri": "textures/CHROME_metallicRoughness.png"
+      "uri": "textures/01_-_Default_baseColor.jpeg"
     }
   ],
   "materials": [
     {
-      "alphaMode": "BLEND",
       "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "FLOOR",
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0,
-          0,
-          0,
-          1
-        ],
-        "baseColorTexture": {
-          "index": 1,
-          "texCoord": 0
-        },
-        "metallicFactor": 0,
-        "roughnessFactor": 1
-      }
-    },
-    {
-      "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "material",
+      "name": "01_-_Default",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
           1,
@@ -486,56 +472,27 @@
           "texCoord": 0
         },
         "metallicFactor": 0,
-        "roughnessFactor": 0.2943978659
+        "roughnessFactor": 0.22819710979999999
       }
     },
     {
       "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "CHROME",
-      "occlusionTexture": {
-        "index": 2,
-        "strength": 1,
-        "texCoord": 0
-      },
+      "name": "02_-_Default",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.53992023219999996,
-          0.53992023219999996,
-          0.53992023219999996,
+          0.84644337729999997,
+          0.61119211750000002,
+          0.32856411899999999,
           1
         ],
         "metallicFactor": 1,
-        "roughnessFactor": 0.17244664630000001
-      }
-    },
-    {
-      "doubleSided": true,
-      "emissiveFactor": [
-        0,
-        0,
-        0
-      ],
-      "name": "RUBBER",
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.027451,
-          0.027451,
-          0.027451,
-          1
-        ],
-        "metallicFactor": 0,
-        "roughnessFactor": 0.87049600690000006
+        "roughnessFactor": 0.3036688079
       }
     }
   ],
   "meshes": [
     {
-      "name": "Plane001_FLOOR_0",
+      "name": "Cylinder002_01 - Default_0",
       "primitives": [
         {
           "attributes": {
@@ -551,53 +508,65 @@
       ]
     },
     {
-      "name": "Hooper_Storage_Coffe_Table_Natural_Ash_ASH_0",
+      "name": "Cylinder001_02 - Default_0",
       "primitives": [
         {
           "attributes": {
             "NORMAL": 6,
             "POSITION": 5,
             "TANGENT": 7,
-            "TEXCOORD_0": 8,
-            "TEXCOORD_1": 9,
-            "TEXCOORD_2": 10
+            "TEXCOORD_0": 8
           },
-          "indices": 11,
+          "indices": 9,
           "material": 1,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Hooper_Storage_Coffe_Table_Natural_Ash_CHROME_0",
+      "name": "Cylinder001_02 - Default_0",
       "primitives": [
         {
           "attributes": {
-            "NORMAL": 13,
-            "POSITION": 12,
-            "TANGENT": 14,
-            "TEXCOORD_0": 15,
-            "TEXCOORD_1": 16
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
           },
-          "indices": 17,
-          "material": 2,
+          "indices": 14,
+          "material": 1,
           "mode": 4
         }
       ]
     },
     {
-      "name": "Hooper_Storage_Coffe_Table_Natural_Ash_RUBBER_0",
+      "name": "Cylinder001_02 - Default_0",
       "primitives": [
         {
           "attributes": {
-            "NORMAL": 19,
-            "POSITION": 18,
-            "TANGENT": 20,
-            "TEXCOORD_0": 21,
-            "TEXCOORD_1": 22
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
           },
-          "indices": 23,
-          "material": 3,
+          "indices": 19,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cylinder001_02 - Default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TANGENT": 22,
+            "TEXCOORD_0": 23
+          },
+          "indices": 24,
+          "material": 1,
           "mode": 4
         }
       ]
@@ -644,45 +613,17 @@
         0,
         1
       ],
-      "name": "84548e7437d64b8ab1308d49d778515d.fbx"
+      "name": "aa879a79d164443aa6ed26a4a3ca6cba.fbx"
     },
     {
       "children": [
-        4,
-        6
+        4
       ],
       "name": "RootNode"
     },
     {
       "children": [
-        5
-      ],
-      "matrix": [
-        1,
-        0,
-        0,
-        0,
-        0,
-        2.2204460492503131e-16,
-        -1,
-        0,
-        0,
-        1,
-        2.2204460492503131e-16,
-        0,
-        0,
-        0,
-        0,
-        1
-      ],
-      "name": "Plane001"
-    },
-    {
-      "mesh": 0,
-      "name": "Plane001_FLOOR_0"
-    },
-    {
-      "children": [
+        5,
         7
       ],
       "matrix": [
@@ -698,50 +639,83 @@
         1,
         2.2204460492503131e-16,
         0,
-        0,
-        0.081107906997203827,
-        -0.0001373291015625,
+        192.82232666015625,
+        228.25823974609375,
+        -169.20028686523438,
         1
       ],
-      "name": "Hooper_Storage_Coffe_Table_Natural_Ash"
+      "name": "A11050"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        247.82586669921875,
+        -102.65283203125,
+        207.5,
+        1
+      ],
+      "name": "Cylinder002"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder002_01 - Default_0"
     },
     {
       "children": [
         8,
         9,
-        10
+        10,
+        11
       ],
       "matrix": [
         1,
         0,
-        -0,
-        0,
-        0,
-        1,
-        0,
         0,
         0,
         0,
         1,
         0,
-        -28.714405059814453,
-        -13.027644157409668,
-        26.537586212158203,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -3.0517578125e-05,
+        3.0517578125e-05,
+        202.5,
         1
       ],
-      "name": ""
+      "name": "Cylinder001"
     },
     {
       "mesh": 1,
-      "name": "Hooper_Storage_Coffe_Table_Natural_Ash_ASH_0"
+      "name": "Cylinder001_02 - Default_0"
     },
     {
       "mesh": 2,
-      "name": "Hooper_Storage_Coffe_Table_Natural_Ash_CHROME_0"
+      "name": "Cylinder001_02 - Default_0"
     },
     {
       "mesh": 3,
-      "name": "Hooper_Storage_Coffe_Table_Natural_Ash_RUBBER_0"
+      "name": "Cylinder001_02 - Default_0"
+    },
+    {
+      "mesh": 4,
+      "name": "Cylinder001_02 - Default_0"
     }
   ],
   "samplers": [
@@ -765,14 +739,6 @@
     {
       "sampler": 0,
       "source": 0
-    },
-    {
-      "sampler": 0,
-      "source": 1
-    },
-    {
-      "sampler": 0,
-      "source": 2
     }
   ]
 }
